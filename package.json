@@ -1,0 +1,30 @@
+{
+  "name": "react2.0",
+  "version": "1.0.0",
+  "description": "This is made by Prateek",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/PrateekSama/React.git)"
+  },
+  "keywords": [
+    "React",
+    "learning"
+  ],
+  "author": "Prateek_Pp",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 10 version"
+  ]
+}
